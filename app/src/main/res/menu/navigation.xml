@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Destacados"
+        android:id="@+id/destacados"
+        android:icon="@drawable/ic_star_black_24dp"/>
+    <item android:title="Categorias"
+        android:id="@+id/categorias"
+        android:icon="@drawable/ic_restaurant_black_24dp"/>
+    <item android:title="Cerca"
+        android:id="@+id/cercademi"
+        android:icon="@drawable/ic_near_me_black_24dp" />
+    <item android:title="Promos"
+        android:id="@+id/promoydesc"
+        android:icon="@drawable/ic_money_off_black_24dp"/>
+</menu>
