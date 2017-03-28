@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "174673381756",
+    "firebase_url": "https://prueba-app-161721.firebaseio.com",
+    "project_id": "prueba-app-161721",
+    "storage_bucket": "prueba-app-161721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174673381756:android:0cd6e90075dd1e40",
+        "android_client_info": {
+          "package_name": "com.example.mario.navigationdrawerexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174673381756-k8ujkb9ot0ppf4p8rbc6qj3qsks6p3no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6Wm1Un9VEjPxWSX-WQIFBU_Ht0eVS_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

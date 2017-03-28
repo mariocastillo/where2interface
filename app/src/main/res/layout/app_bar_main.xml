@@ -6,9 +6,10 @@
     android:layout_height="match_parent"
     tools:context="com.example.mario.navigationdrawerexample.MainActivity">
 
-    <include layout="@layout/content_main" />
+
 
     <android.support.design.widget.AppBarLayout
+        android:id="@+id/barradearriba"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:theme="@style/AppTheme.AppBarOverlay">
@@ -21,6 +22,7 @@
             app:popupTheme="@style/AppTheme.PopupOverlay"/>
 
     </android.support.design.widget.AppBarLayout>
+    <include layout="@layout/content_main" />
 
     <!--<android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
